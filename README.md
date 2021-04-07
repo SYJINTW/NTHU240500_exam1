@@ -23,6 +23,14 @@ Exam 1
 <!-- Screenshot -->
 ## Results
 
+* GUI
+
+    <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/125red.png">
+    <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/125g.png">
+    <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/500g.png">
+    <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1g.png">
+    <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1r.png">
+
 * Picoscope result at 1
   
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1.png">  
