@@ -33,27 +33,26 @@ Exam 1
 ## Results
 
 * GUI
-
+    RED means select.
+    GREEN means not select yet.
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/125red.png">
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/125g.png">
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/500g.png">
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1g.png">
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1r.png">
 
-* Picoscope result at 1
-  
+* Picoscope result
+
+    at 1.00
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/1.png">  
 
-* Picoscope result at 500
-  
+    at 0.500
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/500.png">  
-
-* Picoscope result at 250
-  
+    
+    at 0.250
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/250.png">  
 
-* Picoscope result at 125
-  
+    at 0.125
     <img src="https://github.com/SYJINTW/NTHU240500_exam1/blob/main/src/125.png">  
 
 * Sample
