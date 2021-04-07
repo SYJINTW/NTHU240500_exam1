@@ -324,4 +324,5 @@ BUILD/B_L4S5I_IOT01A/GCC_ARM/main.o: main.cpp \
  /home/syj/ee2405/mbed-os-build/platform/include/platform/mbed_stats.h \
  4dgl-ulcd-se/uLCD_4DGL.h \
  /home/syj/ee2405/mbed-os-build/platform/include/platform/Stream.h \
- /home/syj/ee2405/mbed-os-build/platform/include/platform/FileLike.h
+ /home/syj/ee2405/mbed-os-build/platform/include/platform/FileLike.h \
+ /home/syj/ee2405/mbed-os-build/events/include/events/mbed_events.h
